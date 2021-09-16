@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/batch12-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/batch12-react/static/js/main.8265cab5.chunk.js",
+    "main.js.map": "/batch12-react/static/js/main.8265cab5.chunk.js.map",
+    "runtime-main.js": "/batch12-react/static/js/runtime-main.7e444985.js",
+    "runtime-main.js.map": "/batch12-react/static/js/runtime-main.7e444985.js.map",
+    "static/js/2.2e746f4b.chunk.js": "/batch12-react/static/js/2.2e746f4b.chunk.js",
+    "static/js/2.2e746f4b.chunk.js.map": "/batch12-react/static/js/2.2e746f4b.chunk.js.map",
+    "static/js/3.6e158d48.chunk.js": "/batch12-react/static/js/3.6e158d48.chunk.js",
+    "static/js/3.6e158d48.chunk.js.map": "/batch12-react/static/js/3.6e158d48.chunk.js.map",
+    "index.html": "/batch12-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/batch12-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2e746f4b.chunk.js.LICENSE.txt": "/batch12-react/static/js/2.2e746f4b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/batch12-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e444985.js",
+    "static/js/2.2e746f4b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8265cab5.chunk.js"
+  ]
+}
