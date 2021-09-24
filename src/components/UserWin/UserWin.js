@@ -1,4 +1,7 @@
 import React from 'react';
+import Button from '../Button/Button';
+
+import './UserWin.css'
 
 function UserWin({ secretNumber, guessCount, clickAction }) {
 	return (
@@ -8,9 +11,7 @@ function UserWin({ secretNumber, guessCount, clickAction }) {
 				it right!
 			</div>
 			<div className='Secret-number'>{secretNumber}</div>
-			<button className='Play-again' onClick={clickAction}>
-				↻
-			</button>
+			<Button className='Play-again' onClick={clickAction} value='↻' />
 		</div>
 	);
 }

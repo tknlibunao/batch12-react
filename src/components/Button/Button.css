@@ -1,0 +1,13 @@
+.Play-again {
+	width: 40px;
+	height: 40px;
+	margin-top: 10px;
+	text-transform: uppercase;
+	background-color: #ffba3a;
+	border: none;
+	border-radius: 50%;
+	box-shadow: 2px 2px 3px rgb(49, 21, 8);
+	cursor: pointer;
+	font-size: 3vmin;
+	color: #2c2928;
+}

@@ -1,0 +1,24 @@
+.Win-header {
+	width: 100vw;
+	height: 20vh;
+	margin: 5vh;
+	position: absolute;
+	top: 10vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.Win-message {
+	color: white;
+}
+
+.Guess-count {
+	color: rgb(247, 186, 95);
+}
+
+.Secret-number {
+	color: white;
+	font-size: calc(20px + 2vmin);
+}
