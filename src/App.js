@@ -29,7 +29,7 @@ function App() {
 
 		// For checking and testing purposes
 		console.log('Secret Number is', secretNumber);
-		secretNumber = '1234';
+		// secretNumber = '1234';
 		return secretNumber;
 	};
 
@@ -106,8 +106,8 @@ function App() {
 	};
 
 	return (
-		<div className='App'>
-			<Header className='App-header' title='BULLS AND COWS' />
+		<div className="App">
+			<Header className="App-header" title="BULLS AND COWS" />
 			{!userWin && (
 				<Form
 					formAction={submitFormHandler}
